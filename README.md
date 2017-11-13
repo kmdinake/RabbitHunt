@@ -1,13 +1,13 @@
 # RabbitHunt
 Basic Exploratory Data Analysis and Data Modelling
--
+
 # Task 1: Exploratory Data Analysis
 Download the following dataset: https://www.kaggle.com/ludobenistant/hr-analytics
 In your notebook, perform the following tasks:
 1. Scrub the data
 2. Perform exploratory data analysis that will provide insight into the data
 3. Summarize your findings
--
+
 # Task 2: Modelling
 Download the following dataset: https://www.kaggle.com/dalpozz/creditcardfraud
 You are tasked to predict whether someone would perform credit card fraud
