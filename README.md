@@ -18,3 +18,7 @@ notebook, and write why you suggest that model. Also please select appropriate
 performance measures
 3. Run your selected technique and report on your results from using the technique
 4. Given your results, suggest the next steps on how to further improve the model
+
+# Legal
+Copyright &copy; Retro Rabbit Professional Services (Pty) Ltd
+Developed by K.M. Dinake (2017-11-13)
