@@ -1,3 +1,4 @@
+.DS_Store
 src/*/.DS_Store
 src/task1/*.csv
 src/task2/*.csv
