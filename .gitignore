@@ -1,0 +1,5 @@
+src/*/.DS_Store
+src/task1/*.csv
+src/task2/*.csv
+src/task1/*.pyc
+src/task2/*.pyc
