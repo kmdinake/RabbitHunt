@@ -41,7 +41,7 @@ In your notebook, perform the following tasks:
     - String
 
 
-# Task 2: Modelling
+# Task 2: Predictive Modelling
 Download the following dataset: https://www.kaggle.com/dalpozz/creditcardfraud
 You are tasked to predict whether someone would perform credit card fraud
 1. Preprocess the data by performing appropriate data cleaning, transformations and

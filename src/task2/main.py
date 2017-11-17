@@ -5,7 +5,7 @@ __author__ = "Keoagile Dinake"
 
 
 def main():
-    print(c.LIME + "Task 2: Modelling")
+    print(c.LIME + "Task 2: Predictive Modelling")
     print("=" * 40 + c.RESET)
     detective = c.Classifier()
     detective.use_dataset("creditcard.csv")

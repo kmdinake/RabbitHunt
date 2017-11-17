@@ -41,13 +41,13 @@ class Classifier:
 
     def use_dataset(self, dataset_name):
         """
-                Todo:
-                    Read in a .csv file into a pandas datafame
-                Params:
-                    dataset_name -> Type: String
-                Returns:
-                    Void
-                """
+        Todo:
+            Read in a .csv file into a pandas datafame
+        Params:
+            dataset_name -> Type: String
+        Returns:
+            Void
+        """
         if dataset_name is None or dataset_name == "":
             print(RED + "Dataset name cannot be null." + RESET)
             sys.exit(1)
